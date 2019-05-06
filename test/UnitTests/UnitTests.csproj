@@ -12,6 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Nito.Disposables\Nito.Disposables.csproj" />
+    <ProjectReference Include="..\..\src\Nito.Sn.Disposables\Nito.Sn.Disposables.csproj" />
   </ItemGroup>
 </Project>

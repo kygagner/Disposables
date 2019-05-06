@@ -4,6 +4,8 @@
     <Description>IDisposable helper types.</Description>
     <TargetFrameworks>netstandard1.0;netstandard2.0</TargetFrameworks>
     <PackageTags>idisposable,disposable</PackageTags>
+    <AssemblyOriginatorKeyFile>..\..\nito.snk</AssemblyOriginatorKeyFile>
+    <SignAssembly>true</SignAssembly>
   </PropertyGroup>
 
   <ItemGroup>
